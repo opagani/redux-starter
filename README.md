@@ -1,10 +1,10 @@
 # Redux Starter
 
-App built using [Webpack](https://webpack.github.io/) as a module bundler, [React](http://facebook.github.io/react/) as a view layer and [Redux] as a state cpntainer.
+App built using [Webpack](https://webpack.github.io/) as a module bundler, [React](http://facebook.github.io/react/) as a view layer and [Redux])https://github.com/rackt/redux) as a state cpntainer.
 
 ## Running it with webpack-dev-server
 
-This is the preferred way to do development.  It uses webpack-dev-server and hot reloading
+This is the preferred way to do development.  It uses webpack-dev-server and hot reloading.
 
 You'll need the latest stable version of [Node.js](http://nodejs.org/) installed first.  At least you need node v4.2.2.
 
@@ -28,7 +28,6 @@ npm run server
 ```
 
 Then open your browser to: http://localhost:3000
-
 
 ## To build:
 

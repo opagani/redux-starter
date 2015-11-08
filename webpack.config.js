@@ -41,6 +41,7 @@ var common = {
     new HtmlWebpackPlugin({
       title: 'Redux Starter'
     }),
+    new webpack.optimize.OccurenceOrderPlugin(),
     new webpack.HotModuleReplacementPlugin(),
     new webpack.NoErrorsPlugin()
   ],
