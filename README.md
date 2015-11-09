@@ -1,6 +1,6 @@
 # Redux Starter
 
-App built using [Webpack](https://webpack.github.io/) as a module bundler, [React](http://facebook.github.io/react/) as a view layer and [Redux])https://github.com/rackt/redux) as a state cpntainer.
+App built using [Webpack](https://webpack.github.io/) as a module bundler, [React](http://facebook.github.io/react/) as a view layer and [Redux](https://github.com/rackt/redux) as a state cpntainer.
 
 ## Running it with webpack-dev-server
 
